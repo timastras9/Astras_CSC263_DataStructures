@@ -118,7 +118,10 @@ AI coding assistant from Anthropic. The assignment — writing
 from-scratch Java implementations of the Chapter 16 data structures
 (Linked List, Array List, Stack, Queue, Hash Table) with test classes —
 is the requirement given for my Java 2 (CSC263) class, drawing on the
-course textbook (Chapter 16) and standard data-structures references. I
-(Timothy Astras) directed the work, reviewed every line, compiled and
-ran all tests, and verified the output. This disclosure is provided in
-compliance with the course's academic-integrity policy on AI tool use.
+course textbook (Chapter 16) and standard data-structures references.
+**All original thoughts, ideas, design decisions, and innovation behind
+this work are my own (Timothy Astras)** — Claude Code was used purely as
+a programming assistant to help me implement my ideas in Java. I
+directed every step, reviewed every line, compiled and ran all tests,
+and verified the output. This disclosure is provided in compliance with
+the course's academic-integrity policy on AI tool use.

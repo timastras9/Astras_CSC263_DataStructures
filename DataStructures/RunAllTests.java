@@ -7,8 +7,10 @@ package DataStructures;
  *  Date     : 2026-06-24
  *
  *  AI ASSISTANCE DISCLOSURE: Developed with AI assistance using Claude
- *  Code (Anthropic). I directed, reviewed, ran, and verified all work.
- *  See any implementation file for the full disclosure statement.
+ *  Code (Anthropic). ALL thoughts, ideas, and innovation are my own
+ *  (Timothy Astras); Claude Code only helped implement my ideas. I
+ *  directed, reviewed, ran, and verified all work. See any
+ *  implementation file for the full disclosure statement.
  * =====================================================================
  *
  *  Convenience entry point that runs every data-structure test class

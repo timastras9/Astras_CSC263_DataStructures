@@ -13,8 +13,11 @@ package DataStructures;
  *  from-scratch Java implementations of the Chapter 16 data
  *  structures (Linked List, Array List, Stack, Queue, Hash Table)
  *  with test classes -- is the requirement for my Java 2 (CSC263)
- *  class. I (Timothy Astras) directed the work, reviewed every line,
- *  compiled and ran the program, and verified the output. This
+ *  class. ALL original thoughts, ideas, design decisions, and
+ *  innovation behind this work are my own (Timothy Astras); Claude
+ *  Code was used purely as a programming assistant to help me
+ *  implement MY ideas in Java. I directed every step, reviewed every
+ *  line, compiled and ran the program, and verified the output. This
  *  disclosure is provided in compliance with the course's
  *  academic-integrity policy on AI tool use.
  * =====================================================================
